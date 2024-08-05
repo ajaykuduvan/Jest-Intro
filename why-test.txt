@@ -2,6 +2,3 @@
 
 2. You will be able to save time by simply running the tests instead of manual checks.
 
-3. You will be able to confidently say you've tested your code. 
-
-4. Your tests are documentation that can be run by others instead of "Trust me, bro". 
